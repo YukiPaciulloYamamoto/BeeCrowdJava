@@ -1,4 +1,4 @@
-package AResolver;
+package ResolvidoBeeCrowd;
 
 /*
 Leia quatro números (N1, N2, N3, N4), cada um deles com uma casa decimal, correspondente às quatro notas de um aluno.
